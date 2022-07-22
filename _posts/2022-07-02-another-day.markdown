@@ -1,6 +1,6 @@
 ---
 title: another day
-date: 2022-07-22 00:00:00 Z
+date: 2022-07-02 00:00:00 Z
 ---
 
 ### another day
