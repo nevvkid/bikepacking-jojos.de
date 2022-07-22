@@ -16,8 +16,8 @@
 title: bikepacking jojos
 description: Follow Johanna & Johannes bikepacking sabbatical. 8 countries • 5.500km • 2 gravel bikes • 1 Tent • Berlin - Malaga
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nevvkid.github.io/bikepacking-jojos.de" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/bikepacking-jojos.de" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: nevvkid/bikepacking-jojos.de # the GitHub repo name for your project
 github_username: nevvkid
 github: [metadata]
