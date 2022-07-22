@@ -9,3 +9,6 @@ date: 2022-07-22 00:00:00 Z
 extra special days
 
 <iframe src="https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fnevvkid.github.io%2Fjekyll-cycle-log%2Froutes%2Fberlin-copenhagen-2019-stage2.gpx%22%5D%7D&embed&source=cosm&distance&direction" width="100%" height="500" frameborder="0" allowfullscreen><p><a href="https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fnevvkid.github.io%2Fjekyll-cycle-log%2Froutes%2Fberlin-copenhagen-2019-stage2.gpx%22%5D%7D></a></p></iframe>
+
+
+![Screenshot 2022-07-19 at 09.02.36.png](/uploads/Screenshot%202022-07-19%20at%2009.02.36.png)
