@@ -18,7 +18,7 @@ description: Follow Johanna & Johannes bikepacking sabbatical. 8 countries • 5
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nevvkid.github.io/bikepacking-jojos.de" # the base hostname & protocol for your site, e.g. http://example.com
-github_repo: nevvkid/jekyll-cycle-log # the GitHub repo name for your project
+github_repo: nevvkid/bikepacking-jojos.de # the GitHub repo name for your project
 github_username: nevvkid
 github: [metadata]
 
