@@ -1,9 +1,9 @@
 ---
-layout: post
 title: the second day
-date: 2022-07-01 22:00:00 +0000
-
+date: 2022-07-01 22:00:00 Z
+layout: post
 ---
+
 ### another test
 
   

@@ -1,8 +1,7 @@
 ---
+title: the first day
+date: 2022-07-01 00:00:00 Z
 layout: post
-title:  "the first day"
-date:   2022-07-01
-published: true
 ---
 
 ### test doc
