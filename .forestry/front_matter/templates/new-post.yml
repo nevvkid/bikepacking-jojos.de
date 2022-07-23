@@ -11,3 +11,9 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: published
+  type: text
+  config:
+    required: false
+  label: 'published '
+  default: 'true'
