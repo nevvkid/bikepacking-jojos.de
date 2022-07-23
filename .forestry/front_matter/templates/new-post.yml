@@ -1,5 +1,5 @@
 ---
-label: " new post"
+label: "new post"
 hide_body: false
 fields:
 - type: text
@@ -16,6 +16,6 @@ fields:
   config:
     required: false
   label: 'published '
-  default: 'true'
+  default: true
 pages:
 - _posts/four-days-of-riding.md
