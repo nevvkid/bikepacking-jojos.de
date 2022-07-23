@@ -17,3 +17,5 @@ fields:
     required: false
   label: 'published '
   default: 'true'
+pages:
+- _posts/four-days-of-riding.md
