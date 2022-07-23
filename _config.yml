@@ -1,6 +1,6 @@
 ---
 title: bikepacking jojos
-timezone: UTC
+timezone: Europe/Berlin
 collections:
   posts:
     title: Posts
@@ -11,7 +11,7 @@ collections:
 description: Follow Johanna & Johannes bikepacking sabbatical. 8 countries • 5.500km
   • 2 gravel bikes • 1 Tent • Berlin - Malaga
 baseurl: "/bikepacking-jojos.de"
-url: ''
+url: 
 github_repo: nevvkid/bikepacking-jojos.de
 github_username: nevvkid
 github:
