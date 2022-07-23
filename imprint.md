@@ -4,7 +4,6 @@ permalink: "/imprint/"
 layout: page
 ---
 
-<h1>Imprint</h1>
 <h2>Angaben gemäß § 5 TMG:</h2>
 
 <p>Johannes Elias Lohbihler<br>
