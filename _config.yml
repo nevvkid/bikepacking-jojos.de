@@ -19,7 +19,7 @@ github:
 social_link: instagram
 social_username: bikepacking_jojos
 remote_theme: broccolini/swiss
-theme_color: white
+theme_color: yellow
 markdown: kramdown
 plugins:
 - jekyll-feed

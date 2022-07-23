@@ -1,7 +1,6 @@
 ---
-title: Imprint
 permalink: "/imprint/"
-layout: page
+layout: page-imprint
 ---
 
 <h2>Angaben gemäß § 5 TMG:</h2>

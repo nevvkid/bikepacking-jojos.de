@@ -2,6 +2,7 @@
 title: About
 permalink: "/about/"
 layout: page
+menu: main
 ---
 
 ## Our planning 
