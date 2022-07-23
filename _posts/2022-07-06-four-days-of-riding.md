@@ -1,7 +1,6 @@
 ---
-published: false
 title: four days of riding
-date: 2022-07-06 00:00:00 +0200
+date: 2022-07-06T00:00:00.000+02:00
 layout: post
 
 ---
