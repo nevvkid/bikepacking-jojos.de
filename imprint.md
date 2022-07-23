@@ -6,7 +6,7 @@ layout: page
 
 <h2>Angaben gemäß § 5 TMG:</h2>
 
-<p>Johannes Elias Lohbihler<br>
+<p>Johannes Lohbihler<br>
 Elsenstraße 74<br>
 12059 Berlin</p>
 
