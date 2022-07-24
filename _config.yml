@@ -11,8 +11,8 @@ collections:
 description: Follow Johanna & Johannes bikepacking sabbatical. 8 countries • 5.500km
   • 2 gravel bikes • 1 Tent • Berlin - Malaga
 baseurl: ""
-url: "http://bikepacking-jojos.de"
-github_repo: nevvkid/bikepacking-jojos.de
+url: "https://bikepacking-jojos.de"
+github_repo: bikepacking-jojos.de
 github_username: nevvkid
 github:
 - metadata
