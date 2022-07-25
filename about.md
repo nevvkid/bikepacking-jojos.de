@@ -2,12 +2,13 @@
 title: About
 permalink: "/about/"
 layout: page
-menu: main
 ---
 
 ## Our planning 
 
 <iframe src="https://www.komoot.de/collection/1581256/embed" width="100%" height="580" frameborder="0" scrolling="no"></iframe>
+
+<iframe src="https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fbikepacking-jojos.de%2Fuploads%2F2022-06-02_791770911_Berlin%2520nach%2520Dresden.gpx%22,%22%20https%3A%2F%2Fbikepacking-jojos.de%2Fuploads%2F2022-07-06_833347997_Von%2520Radeberg%2520nach%2520Prag.gpx%22%5D%7D&embed" width="100%" height="500" frameborder="0" allowfullscreen><p><a href="https://gpx.studio/?state=%7B%22urls%22:%5B%22https%3A%2F%2Fbikepacking-jojos.de%2Fuploads%2F2022-06-02_791770911_Berlin%2520nach%2520Dresden.gpx%22,%22%20https%3A%2F%2Fbikepacking-jojos.de%2Fuploads%2F2022-07-06_833347997_Von%2520Radeberg%2520nach%2520Prag.gpx%22%5D%7D></a></p></iframe>
 
 
 ### Features:
