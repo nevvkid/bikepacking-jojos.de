@@ -60,3 +60,10 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+/**
+ * https://lighterpack.com/ embed style fixes
+ */
+
+.lpItemsHeader {height: 61px !important;}
+.lpCategoryName {margin: 0px !important;}
