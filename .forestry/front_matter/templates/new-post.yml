@@ -11,5 +11,3 @@ fields:
 - type: text
   name: layout
   label: layout
-pages:
-- _posts/2022-07-09-five-days-of-riding.md
