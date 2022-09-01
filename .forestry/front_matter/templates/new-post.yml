@@ -12,5 +12,6 @@ fields:
   name: layout
   label: layout
 pages:
+- _posts/day-32.md
 - _posts/day-33.md
 - _posts/the-second-day.md
